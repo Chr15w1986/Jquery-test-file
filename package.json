@@ -1,0 +1,22 @@
+{
+  "name": "jquery-test-file",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chr15w1986/Jquery-test-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chr15w1986/Jquery-test-file/issues"
+  },
+  "homepage": "https://github.com/Chr15w1986/Jquery-test-file#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
